@@ -8,7 +8,9 @@ nodes_drive.csv, edges_drive.csv, Bus_Stops.csv, Bus_Routes.csv, Edge_Names_With
 
 We also collected data from the website
 
-1. merged_bus_data.csv: Determine the approximate correspondence between bus stops and bus routes through Google Maps
+1. merged_bus_data.csv: Determine the approximate correspondence between bus stops and bus routes through Google Maps and OpenStreetMap
+googlemap: https://www.google.com.hk/maps/@39.2664084,-76.6100485,11.27z/data=!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D
+OpenStreetMap: https://www.openstreetmap.org/#map=12/39.2999/-76.6037
 2. Population_regional_division.csv: To know the population size within the region, from https://statisticalatlas.com/place/Maryland/Baltimore/Population#data-map/block-group
 3. MDOT_SHA_Annual_Average_Daily_Traffic_Baltimore.geojson: as the supplement of MDOT_SHA_Annual_Average_Daily_Traffic_Baltimore.csv, from https://data.imap.maryland.gov/datasets/maryland::mdot-sha-annual-average-daily-traffic-aadt-locations/explore
 4.baltimore_boundary.geojson: To understand the administrative divisions of Baltimore, form https://overpass-turbo.eu/
