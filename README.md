@@ -15,9 +15,10 @@ We also collected data from the website
 
 The remaining dataset was derived through modeling
 
-1. Total_Scenic_Change_Influence_Data.xlsx and Sensitivity_Analysis_Data_Table.csv, these are tables calculated for sensitivity These are tables calculated for sensitivity, it is the correlation matrix of attraction points
-2. Cluster_Centers_and_Populations.csv, used to record information about attraction points
-3. Traffic_Allocation_Summary_With_Reallocation.csv, it is used to record the changes in data before and after the collapse of the bridge
-4. Bus_Station_Connectivity_Average_Count.csv, It is used to record the average number of reachable bus stops within the three bus stops after clustering
+1. Total_Scenic_Change_Influence_Data.xlsx and Sensitivity_Analysis_Data_Table.csv, these are tables calculated for sensitivity
+2. Sensitivity_Analysis_Data_Table.csv, These are tables calculated for sensitivity, it is the correlation matrix of attraction points
+3. Cluster_Centers_and_Populations.csv, used to record information about attraction points
+4. Traffic_Allocation_Summary_With_Reallocation.csv, it is used to record the changes in data before and after the collapse of the bridge
+5. Bus_Station_Connectivity_Average_Count.csv, It is used to record the average number of reachable bus stops within the three bus stops after clustering
 
 The tags before the code are used to facilitate distinguishing the corresponding scope and increase readability, but not all code is described in the paper
